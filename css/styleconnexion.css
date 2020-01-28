@@ -1,0 +1,133 @@
+
+body{
+  
+    background-image: url(https://wallpaperscute.com/wp-content/uploads/2019/09/Desktop-Wallpaper-Space.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+  }
+  /* css mta3 l login lkol ! */
+  .sign{
+      width: 28%;
+      height: max-content;
+      background-color: rgba(0, 0, 0, 0.651);
+      margin-top: 10%;
+      margin-bottom: 10%;
+      border-radius: 1rem;
+   
+  }
+  
+  .form-control{
+      width: 77%;
+      height: auto;
+      border-radius: 2rem;
+      background-color: rgba(0, 0, 0, 0.596) ;
+      border: 2px lightslategray solid;
+  
+  }
+  .s{
+      padding-top: 10%;
+      text-align: center;
+      font-size: 28px;
+      font-family: comic sans ms ;
+  }
+  .dd{
+      height: max-content;
+  }
+  #e{
+      margin-bottom: 6%;
+  
+  }
+  
+  
+  .butt{
+      margin-bottom: 4%;
+      background-color: rgb(40, 108, 253);
+      color: white;
+      border-radius: 2rem;
+      width: 70%;
+      height: 2.7rem;
+      font-family: comic sans ms ;
+  
+      
+  }
+  .butt:active{
+      background-color:rgb(0, 81, 255) ;
+    
+  
+  }
+  hr{
+   border: 1px solid rgba(211, 211, 211, 0.850);
+  }
+  
+  #jk{
+     text-align: initial;
+     margin-left: 4rem;
+   
+  }
+  
+  #g{
+  background-color: #DD4B39;
+  color: white;
+  border-radius: 2rem;
+  width: 70%;
+  height: 3.3rem;
+  margin-top: 6%;
+  font-family: comic sans ms ;
+  }
+  #g:active{
+     background-color:  rgb(175, 49, 32);
+  }
+  
+  #f{
+      background-color: #3B5998;
+      margin-top: 5%;
+      color: white;
+      border-radius: 2rem;
+      width: 70%;
+      height: 3.3rem;
+      font-family: comic sans ms ;
+  }
+  #f:active{
+      background-color: rgb(22, 71, 177);
+  }
+  h2{
+      color: white;
+  }
+  
+  .custom-control-label{
+      color: white;
+    
+  }
+ 
+
+.footer-bottom {
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    padding-top: 14px;
+}
+#alal{
+    
+    position: relative;
+    font-size: 20px;
+    top: -15px;
+    color: white;
+}
+
+.divider{
+    height: 1px;
+    background-color: #ededed86;
+    text-align: center;
+    width: 80%;
+    margin: 5%;
+}
+
+
+

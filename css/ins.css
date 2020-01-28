@@ -1,0 +1,33 @@
+.sign{
+    height: max-content;
+}
+
+.divider{
+    height: 1px;
+    background-color: #ededed86;
+    text-align: center;
+    width: 80%;
+    margin: 7%;
+}
+#alal{
+    
+    position: relative;
+    font-size: 20px;
+    top: -15px;
+    color: white;
+}
+
+#f{
+    background-color: #3B5998;
+    margin-top: 5%;
+    color: white;
+    border-radius: 2rem;
+    width: 70%;
+    height: 3.3rem;
+    font-family: comic sans ms ;
+}
+
+
+.container-fluid{
+    margin-top: 20%;
+}
